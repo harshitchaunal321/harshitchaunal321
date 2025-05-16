@@ -41,8 +41,8 @@ I’m a developer who believes in building *thoughtfully crafted* software—cle
 
 ### 📈 GitHub Stats
 
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitchaunal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitchaunal&layout=compact&theme=radical)
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitchaunal321&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitchaunal321&layout=compact&theme=radical)
 
 ---
 
