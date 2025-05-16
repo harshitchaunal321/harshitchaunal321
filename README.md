@@ -47,7 +47,7 @@ I’m a developer who believes in building *thoughtfully crafted* software—cle
 ### 📬 Let's Connect
 
 - 🌐 [Portfolio Website](#) *(coming soon!)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshit-chaunal/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshitchaunal/)
 - ✍️ [Blog](#) *(soon to be filled with dev tales and tech rants)*
 
 ---
