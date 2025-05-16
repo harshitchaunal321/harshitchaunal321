@@ -11,6 +11,7 @@
 👨‍💻 I’m a developer who enjoys building clean and scalable software that solves real problems.
 
 💻 I work on full-stack web and mobile apps using React.js, React Native, and Node.js
+<br>
 🔧 On the backend, I work with Java (Spring Boot) and Node.js
 ☁️ I deploy projects to AWS, Vercel, and Netlify
 
@@ -61,6 +62,7 @@ DevOps & Tools
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitchaunal321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitchaunal321&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
+
 
 📬 Let's Connect
 <p align="center">
