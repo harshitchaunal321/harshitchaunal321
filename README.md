@@ -67,7 +67,7 @@ DevOps & Tools
   <a href="https://www.linkedin.com/in/harshitchaunal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Harshit_Chaunal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:harshitchaunal123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="#"> target="_blank"<img src="https://img.shields.io/badge/Blog-Tech_Insights-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Blog-Tech_Insights-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
 </p>
 
 
