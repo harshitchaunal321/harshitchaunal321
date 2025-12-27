@@ -29,16 +29,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=harshitchaunal321&theme=tokyonight&hide_border=true&v=1" 
-    alt="GitHub Streak Stats"
-  />
-</p>
-
-
----
 
 ## 🧰 Tech Stack
 
@@ -75,22 +65,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=harshitchaunal321&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&v=1"
-    alt="Harshit Chaunal GitHub Stats"
-  />
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitchaunal321&layout=compact&theme=tokyonight&hide_border=true&v=1"
-    alt="Top Languages"
-  />
 </p>
 
 ---
