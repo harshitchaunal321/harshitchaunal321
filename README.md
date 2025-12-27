@@ -30,9 +30,12 @@
 ---
 
 ### 🔥 GitHub Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshitchaunal321&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=harshitchaunal321&theme=tokyonight&hide_border=true&v=1" 
+    alt="GitHub Streak Stats"
+  />
+</p>
 
 
 ---
@@ -77,10 +80,18 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitchaunal321&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitchaunal321&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=harshitchaunal321&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&v=1"
+    alt="Harshit Chaunal GitHub Stats"
+  />
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitchaunal321&layout=compact&theme=tokyonight&hide_border=true&v=1"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
