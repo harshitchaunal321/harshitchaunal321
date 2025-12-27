@@ -98,7 +98,7 @@
 
 ---
 
-🐞 **My debugging face scared away 3 bugs this week — without touching the keyboard.**
+🐞 **My debugging face scared away 3 bugs this week, without touching the keyboard.**
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=harshitchaunal321&label=Profile+Views&color=blueviolet&style=flat-square"/>
